@@ -2,4 +2,4 @@
 ### Read the license first. ###
 
 # Requirements
-1. Keyboard
+1. Keyboard (pip install keyboard)
